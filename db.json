@@ -1,0 +1,260 @@
+{
+  "Categories": [
+    {
+      "id": 1,
+      "title": "Fiction",
+      "desc": "Fiction books",
+      "image_slug": "fiction-books-image"
+    },
+    {
+      "id": 2,
+      "title": "Non-Fiction",
+      "desc": "Non-fiction books",
+      "image_slug": "non-fiction-books-image"
+    },
+    {
+      "id": 3,
+      "title": "Science Fiction",
+      "desc": "Science fiction books",
+      "image_slug": "science-fiction-books-image"
+    },
+    {
+      "id": 4,
+      "title": "Mystery",
+      "desc": "Mystery books",
+      "image_slug": "mystery-books-image"
+    },
+    {
+      "id": 5,
+      "title": "Biography",
+      "desc": "Biography books",
+      "image_slug": "biography-books-image"
+    }
+  ],
+  "Product": [
+    {
+      "id": 1,
+      "title": "Mystery Novel",
+      "categoryid": 1,
+      "image": "https://source.unsplash.com/random/900×700/?book",
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?book",
+        "https://source.unsplash.com/random/900×700/?book"
+      ],
+      "price": 20,
+      "filter": [
+        "author1",
+        "language1"
+      ],
+      "date": "2023-01-01"
+    },
+    {
+      "id": 2,
+      "title": "Science Book",
+      "categoryid": 2,
+      "image": "https://source.unsplash.com/random/900×700/?book",
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?book",
+        "https://source.unsplash.com/random/900×700/?book"
+      ],
+      "price": 25,
+      "filter": [
+        "author2",
+        "language2"
+      ],
+      "date": "2023-01-02"
+    },
+    {
+      "id": 3,
+      "title": "Fantasy Novel",
+      "categoryid": 1,
+      "image": "https://source.unsplash.com/random/900×700/?book",
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?book",
+        "https://source.unsplash.com/random/900×700/?book"
+      ],
+      "price": 18,
+      "filter": [
+        "author3",
+        "language1"
+      ],
+      "date": "2023-01-03"
+    },
+    {
+      "id": 4,
+      "title": "History Book",
+      "categoryid": 2,
+      "image": "https://source.unsplash.com/random/900×700/?book",
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?book",
+        "https://source.unsplash.com/random/900×700/?book"
+      ],
+      "price": 30,
+      "filter": [
+        "author4",
+        "language3"
+      ],
+      "date": "2023-01-04"
+    },
+    {
+      "id": 5,
+      "title": "Space Odyssey",
+      "categoryid": 3,
+      "image": "https://source.unsplash.com/random/900×700/?book",
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?book",
+        "https://source.unsplash.com/random/900×700/?book"
+      ],
+      "price": 22,
+      "filter": [
+        "author5",
+        "language2"
+      ],
+      "date": "2023-01-05"
+    },
+    {
+      "id": 6,
+      "title": "Biography of a Scientist",
+      "categoryid": 5,
+      "image": "https://source.unsplash.com/random/900×700/?book",
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?book",
+        "https://source.unsplash.com/random/900×700/?book"
+      ],
+      "price": 28,
+      "filter": [
+        "author6",
+        "language1"
+      ],
+      "date": "2023-01-06"
+    },
+    {
+      "id": 7,
+      "title": "Detective Stories",
+      "categoryid": 4,
+      "image": "https://source.unsplash.com/random/900×700/?book",
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?book",
+        "https://source.unsplash.com/random/900×700/?book"
+      ],
+      "price": 25,
+      "filter": [
+        "author7",
+        "language3"
+      ],
+      "date": "2023-01-07"
+    },
+    {
+      "id": 8,
+      "title": "Historical Biography",
+      "categoryid": 5,
+      "image": "https://source.unsplash.com/random/900×700/?book",
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?book",
+        "https://source.unsplash.com/random/900×700/?book"
+      ],
+      "price": 32,
+      "filter": [
+        "author8",
+        "language1"
+      ],
+      "date": "2023-01-08"
+    },
+    {
+      "id": 9,
+      "title": "Future Science",
+      "categoryid": 3,
+      "image": "https://source.unsplash.com/random/900×700/?book",
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?book",
+        "https://source.unsplash.com/random/900×700/?book"
+      ],
+      "price": 28,
+      "filter": [
+        "author9",
+        "language2"
+      ],
+      "date": "2023-01-09"
+    },
+    {
+      "id": 10,
+      "title": "Adventure Mystery",
+      "categoryid": 4,
+      "image": "https://source.unsplash.com/random/900×700/?book",
+      "gallery": [
+        "https://source.unsplash.com/random/900×700/?book",
+        "https://source.unsplash.com/random/900×700/?book"
+      ],
+      "price": 24,
+      "filter": [
+        "author10",
+        "language1"
+      ],
+      "date": "2023-01-10"
+    }
+  ],
+  "Users": [
+    {
+      "email": "durakaliriza17@gmail.com",
+      "password": "21322821998",
+      "id": 1
+    }
+  ],
+  "Blogs": [
+    {
+      "id": 1,
+      "title": "Book Review Blog",
+      "short_desc": "Latest book reviews",
+      "long_desc": "In-depth reviews on the latest books",
+      "image": "https://source.unsplash.com/random/900×700/?book",
+      "date": "2023-01-11"
+    },
+    {
+      "id": 2,
+      "title": "Author Spotlight",
+      "short_desc": "Spotlight on popular authors",
+      "long_desc": "Explore the works of renowned authors",
+      "image": "https://source.unsplash.com/random/900×700/?book",
+      "date": "2023-01-12"
+    }
+  ],
+  "Wishlist": [
+    {
+      "id": 1,
+      "product_id": 1,
+      "user_id": 1
+    },
+    {
+      "id": 2,
+      "product_id": 2,
+      "user_id": 2
+    }
+  ],
+  "Orders": [
+    {
+      "products": [
+        {
+          "product": {
+            "id": 1,
+            "title": "Mystery Novel",
+            "categoryid": 1,
+            "image": "https://source.unsplash.com/random/900×700/?book",
+            "gallery": [
+              "https://source.unsplash.com/random/900×700/?book",
+              "https://source.unsplash.com/random/900×700/?book"
+            ],
+            "price": 20,
+            "filter": [
+              "author1",
+              "language1"
+            ],
+            "date": "2023-01-01"
+          },
+          "quantity": 6
+        }
+      ],
+      "user_id": 1,
+      "id": 1
+    }
+  ]
+}
