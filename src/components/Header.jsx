@@ -37,7 +37,7 @@ function Header() {
                 </li>
                 {user && (
                   <li className="drop">
-                    <Link to="/order">Blog</Link>
+                    <Link to="/order">Order History</Link>
                   </li>
                 )}
 
