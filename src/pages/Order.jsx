@@ -17,13 +17,13 @@ function Order() {
           <div className="row">
             <div className="col-lg-12">
               <div className="breadcrumb__inner text-center">
-                <h2 className="breadcrumb-title">Shopping Cart</h2>
+                <h2 className="breadcrumb-title">Order History</h2>
                 <nav className="breadcrumb-content">
                   <a className="breadcrumb_item" href="index.html">
                     Home
                   </a>
                   <span className="brd-separator">/</span>
-                  <span className="breadcrumb_item active">Shopping Cart</span>
+                  <span className="breadcrumb_item active">Order History</span>
                 </nav>
               </div>
             </div>
